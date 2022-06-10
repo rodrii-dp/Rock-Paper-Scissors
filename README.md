@@ -1,0 +1,2 @@
+This is the classic rock paper scissors game. The game has been made with Python and it detects some things like:
+blank spaces and the use of capital letters and words not found in the list. I made this game for fun, so I hope you like it!
